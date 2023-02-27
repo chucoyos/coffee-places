@@ -1,5 +1,5 @@
 export default function Footer() {
   return(
-    <div>Footer</div>
+    <footer>&copy; Uno Dev 2023</footer>
   )
 };
